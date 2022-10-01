@@ -8,7 +8,7 @@
 
 - 📝 Estudio Lic. en ciencias de la computación en la Universidad Nacional de San Luis.
 
-- 💬 A veces practico un poco de basquet.
+- 🏀 A veces practico un poco de basquet.
 
 - 📫 Contáctame a **ginopaolettigeuna30@gmail.com**
 
