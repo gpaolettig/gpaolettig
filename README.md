@@ -1,23 +1,23 @@
 <div id="header" align="center">
-    <h1 align="center">Hi 👋, I'm Gino!</h1>
+    <h1 align="center">Hola 👋, soy Gino!</h1>
 </div>
 
 ---
 
-### 👨‍💻 About Me :
+### 👨‍💻 Acerca de mí:
 
-- 📝 I study computer science at the National University of San Luis.
+- 📝 Estudio Lic. en ciencias de la computación en la Universidad Nacional de San Luis.
 
-- 💬 Sometimes I play basketball.
+- 💬 A veces practico un poco de basquet.
 
-- 📫 How to reach me **ginopaolettigeuna30@gmail.com**
+- 📫 Contáctame a **ginopaolettigeuna30@gmail.com**
 
-- 🌱 I’m currently learning **Kotlin & Android**.
+- 🌱 Actualmente estoy aprendiendo **Kotlin & Android**.
 
 
 
 <div align="left">
-    <h3>🔨 Languages and Tools:</h3>
+    <h3>🔨 Lenguajes y herramientas:</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" 
         height="40"/>&nbsp;
@@ -33,5 +33,5 @@
 
 ---
 
-### 📊 
+### 📊 Estadísticas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gipage&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
