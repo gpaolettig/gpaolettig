@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h1 align="center">Hi 👋, I'm Gino!</h1>s
+    <h1 align="center">Hi 👋, I'm Gino!</h1>
 </div>
 
 ---
