@@ -8,11 +8,11 @@
 
 - 📝 I study computer science at the National University of San Luis.
 
-- 💬 Sometimes I play basketball
+- 💬 Sometimes I play basketball.
 
 - 📫 How to reach me **ginopaolettigeuna30@gmail.com**
 
-- 🌱 I’m currently learning **Kotlin & Android**
+- 🌱 I’m currently learning **Kotlin & Android**.
 
 
 
