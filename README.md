@@ -1,23 +1,5 @@
-<div id="header" align="center">
-    <h1 align="center">Hola 👋, soy Gino!</h1>
-</div>
-
----
-
-### 👨‍💻 Acerca de mí:
-
-- 📝 Estudio Lic. en ciencias de la computación en la Universidad Nacional de San Luis.
-
-- 🏀 A veces practico un poco de basquet.
-
-- 📫 Contáctame a **ginopaolettigeuna30@gmail.com**
-
-- 🌱 Actualmente estoy aprendiendo **Kotlin & Android**.
-
-
-
 <div align="left">
-    <h3>🔨 Lenguajes y herramientas:</h3>
+    <h3>Lenguajes y herramientas:</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" 
         height="40"/>&nbsp;
