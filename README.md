@@ -1,5 +1,4 @@
 <div align="left">
-    <h3>Lenguajes y herramientas:</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" 
         height="40"/>&nbsp;
@@ -14,6 +13,4 @@
 </div>
 
 ---
-
-### 📊 Estadísticas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gipage&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
