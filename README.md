@@ -19,6 +19,14 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="apollo" width="50" height="50" title="Bootstrap"/>
 </div>
 
+#### Herramientas
+<div styles="display:flex;">
+  <img src="https://skillicons.dev/icons?i=git" alt="git" width="50" height="50" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=idea" alt="IntellijIDEA" width="50" height="50" title="IntellijIDEA"/>
+  <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="50" height="50" title="Postman"/>
+</div>
+
+
 ---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gipage&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="gipage" /></p>
 
