@@ -7,8 +7,7 @@
   <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="50" height="50" title="Postman"/>
   <img src="https://skillicons.dev/icons?i=react" alt="react" width="50" height="50" title="react"/>  
 </div>
----
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gipage&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="gipage" /></p>
+
 
 
 
