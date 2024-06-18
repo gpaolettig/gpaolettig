@@ -1,4 +1,4 @@
-
+¡Hola! soy Gino, estas son las tecnologías con las que trabajo a menudo. Saludos! 
 <div styles="display:flex;">
   <img src="https://skillicons.dev/icons?i=java" alt="java" width="50" height="50" title="Java"/>
   <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="50" height="50" title="Spring"/>
