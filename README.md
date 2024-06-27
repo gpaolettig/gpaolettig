@@ -1,5 +1,5 @@
 
-¡Hola! soy <strong>Gino</strong> , estas son las tech's con las que me peleo a veces. 👋
+¡Hola! soy <strong>Gino</strong> , estas son las tech con las que me peleo a veces. 👋
 <div styles="display:flex;">
   <img src="https://skillicons.dev/icons?i=java" alt="java" width="50" height="50" title="Java"/>
   <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="50" height="50" title="Spring"/>
