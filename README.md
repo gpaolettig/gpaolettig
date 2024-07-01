@@ -8,7 +8,7 @@ Hi! I'm <strong>Gino</strong> , these are the tech I usually use. 👋
 
     
   
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gipage&show_icons=true&locale=en&layout=compact&hide_border&theme=github_dark" alt="gipage" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gipage&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="gipage" /></p>
 </div>
 
 
