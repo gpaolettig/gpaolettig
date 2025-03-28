@@ -1,3 +1,3 @@
-Current: Linux Consultant @ SUSE  
-Prev: Backend Developer Jr @ PayGoal 
+**Current**: Linux Consultant @ SUSE  
+**Prev**: Java Backend Developer Jr @ PayGoal 
 
